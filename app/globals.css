@@ -159,6 +159,10 @@
 
 :root {
     --border-color: #b2b2b2;
+    --sidebar-hover-background: #ecebeb;
+    --sidebar-active-background: #d0d0d0;
+    --sidebar-btn-background: #ecebeb;
+    
 }
 
 /*
